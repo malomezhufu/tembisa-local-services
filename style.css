@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background: #f4f4f4;
+}
+
+
+header {
+    background: #4CAF50;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+#categories {
+    text-align: center;
+    margin: 1rem 0;
+}
+
+#categories button {
+    margin: 5px;
+    padding: 10px 20px;
+}
+
+.service-card a {
+    display: inline-block;
+    margin: 5px 10px 0 0;
+    text-decoration: none;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.service-card a:hover {
+    opacity: 0.8;
+}
+
+.service-card a.map-link {
+    background-color: #4285F4;
+}
+
+.service-card a:not(.map-link) {
+    background-color: #25D366;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.service-card {
+    overflow: visible;
+}
+
+.service-card h3 {
+    margin: 0 0 10px 0;
+    padding: 5px 0;
+}
+
+

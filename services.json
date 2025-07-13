@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Mama's Kitchen",
+    "category": "Food",
+    "description": "Home-cooked meals",
+    "price": "R50 - R150",
+    "whatsapp": "https://wa.me/27712345678",
+    "map": "https://www.google.com/maps?q=tembisa"
+  },
+  {
+    "name": "Beauty by Lira",
+    "category": "Beauty",
+    "description": "Hair and nails services",
+    "price": "R100 - R400",
+    "whatsapp": "https://wa.me/27723456789",
+    "map": "https://www.google.com/maps?q=tembisa"
+  }
+]
